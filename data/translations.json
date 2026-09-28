@@ -1,0 +1,1687 @@
+{
+  "es": {
+    "nav": {
+      "home": "Inicio",
+      "service": "Servicio Técnico",
+      "scooters": "Patinetes",
+      "telecom": "Fibra y Móvil",
+      "business": "Empresas",
+      "contact": "Contacto",
+      "pcBuilder": "PC Gaming",
+      "online": "Tienda online",
+      "menu": "Menú",
+      "close": "Cerrar"
+    },
+    "common": {
+      "whatsapp": "Consultar por WhatsApp",
+      "more": "Más información",
+      "directions": "Cómo llegar",
+      "schedule": "Horario",
+      "weekdays": "Lunes a viernes",
+      "closedWeekend": "Sábados y domingos cerrado",
+      "map": "Mapa y ubicación",
+      "store": "Tienda en Ciutadella"
+    },
+    "footer": "Tecnología y servicio técnico en Menorca.",
+    "home": {
+      "eyebrow": "Tu tienda de informática en Ciutadella",
+      "title": "Tecnología para tu día a día",
+      "description": "Ordenadores, componentes, periféricos y mucho más. Asesoramiento cercano y profesional, con servicio técnico en toda la isla.",
+      "products": "Ver productos",
+      "whatsapp": "Consultar por WhatsApp",
+      "trust": [
+        "Asesoramiento personalizado",
+        "Servicio técnico propio",
+        "Envíos a toda Menorca",
+        "Soluciones para particulares y empresas"
+      ],
+      "categoriesTitle": "Todo lo que necesitas en tecnología",
+      "categoriesEyebrow": "Tienda de informática",
+      "allCategories": "Ver todas las categorías",
+      "categories": [
+        [
+          "Ordenadores y portátiles",
+          "Equipos para casa, estudio y trabajo"
+        ],
+        [
+          "Impresoras y tintas",
+          "Impresión y consumibles"
+        ],
+        [
+          "Gaming y consolas",
+          "Equipos, accesorios y entretenimiento"
+        ],
+        [
+          "Televisores y accesorios",
+          "Tecnología para el hogar"
+        ]
+      ],
+      "servicesEyebrow": "Servicios APP Informática",
+      "servicesTitle": "Más servicios de APP Informática",
+      "cards": [
+        [
+          "Taller multimarca",
+          "Servicio Técnico Integral",
+          "Ordenadores, móviles, tablets y equipos Apple.",
+          "Ver servicio técnico"
+        ],
+        [
+          "Movilidad",
+          "Patinetes eléctricos",
+          "Venta, reparación, ruedas, frenos y baterías.",
+          "Ver patinetes"
+        ],
+        [
+          "Conectividad",
+          "Fibra, móvil y tarifas",
+          "O2, Digi, MásMóvil y asesoramiento de cobertura.",
+          "Ver tarifas"
+        ],
+        [
+          "Profesional",
+          "Empresas y fincas",
+          "Wi-Fi, redes, CCTV, TPV, soporte y radioenlaces.",
+          "Ver soluciones"
+        ]
+      ],
+      "apple": [
+        "Apple",
+        "Distribuidor autorizado Apple",
+        "Equipos, accesorios y asesoramiento."
+      ],
+      "xiaomi": [
+        "Xiaomi",
+        "Tienda Xiaomi",
+        "Smartphones, dispositivos y accesorios."
+      ],
+      "promo": [
+        "Servicio destacado",
+        "¿Tu ordenador va lento?",
+        "Cambio a SSD, ampliación de memoria RAM, limpieza interna y puesta a punto.",
+        "Consultar"
+      ],
+      "badges": [
+        [
+          "Envíos rápidos",
+          "Catálogo online con entrega."
+        ],
+        [
+          "Garantía oficial",
+          "Productos y reparaciones."
+        ],
+        [
+          "Tienda física",
+          "Estamos en Ciutadella."
+        ],
+        [
+          "WhatsApp",
+          "Consulta directa."
+        ],
+        [
+          "Trato cercano",
+          "Asesoramiento local."
+        ]
+      ],
+      "storeWhatsapp": "Hola, os contacto desde la web de APP Informática Menorca."
+    },
+    "service": {
+      "eyebrow": "Taller multimarca",
+      "title": "Servicio Técnico",
+      "description": "Ordenadores, portátiles, Mac, móviles, tablets y recuperación de datos.",
+      "items": [
+        "Reparación de ordenadores y portátiles",
+        "Ampliaciones de RAM y cambio a SSD",
+        "Limpieza interna y mantenimiento térmico",
+        "Eliminación de virus y puesta a punto",
+        "Reparación y mantenimiento de equipos Apple",
+        "Pantallas, baterías y conectores de smartphones y tablets",
+        "Protectores de hidrogel a medida",
+        "Recuperación de datos y copias de seguridad",
+        "Instalación limpia de sistemas"
+      ],
+      "whatsapp": "Hola, os contacto desde la web para consultar sobre Servicio Técnico."
+    },
+    "scooters": {
+      "eyebrow": "Movilidad eléctrica",
+      "title": "Patinetes eléctricos ZWheel",
+      "description": "Venta y taller especializado en Ciutadella. Te asesoramos para elegir la gama adecuada y también realizamos mantenimiento y reparación.",
+      "view": "Ver gamas",
+      "whatsapp": "Consultar por WhatsApp",
+      "pillars": [
+        [
+          "Seguridad",
+          "Revisión, frenado y mantenimiento."
+        ],
+        [
+          "Tecnología",
+          "Baterías, electrónica y diagnóstico."
+        ],
+        [
+          "Movilidad",
+          "Opciones para distintos usos y recorridos."
+        ],
+        [
+          "Taller",
+          "Pinchazos, ruedas, frenos y ajustes."
+        ]
+      ],
+      "rangesEyebrow": "Gamas principales",
+      "rangesTitle": "Una gama para cada forma de moverte",
+      "rangesDesc": "Seis familias ZWheel para ciudad, largo alcance, uso intensivo y primeras experiencias.",
+      "familyTitles": [
+        [
+          "Todo terreno con potencia",
+          "Para rutas exigentes, mayor tracción y suspensión preparada para superficies difíciles.",
+          [
+            "Hasta 70 km",
+            "Suspensión hidráulica"
+          ]
+        ],
+        [
+          "Confort para largas rutas",
+          "Autonomía amplia y suspensión DUO-SHOCK para moverte con estabilidad cada día.",
+          [
+            "Hasta 70 km",
+            "DUO-SHOCK"
+          ]
+        ],
+        [
+          "Rendimiento de largo alcance",
+          "Potencia sólida para recorridos intensos con control y estabilidad.",
+          [
+            "Doble motor",
+            "Alto rendimiento"
+          ]
+        ],
+        [
+          "Equilibrio urbano pro",
+          "Una opción urbana completa para moverte a diario con comodidad y autonomía.",
+          [
+            "Ciudad y distancia",
+            "Confort diario"
+          ]
+        ],
+        [
+          "Ligero para la ciudad",
+          "Diseño plegable y ágil para trayectos urbanos cortos y uso cotidiano.",
+          [
+            "Plegable",
+            "Uso urbano"
+          ]
+        ],
+        [
+          "Primeras aventuras",
+          "Patinete infantil ligero y sencillo, pensado para iniciarse con facilidad.",
+          [
+            "Desde 6 años",
+            "Manejo sencillo"
+          ]
+        ]
+      ],
+      "consult": "Consultar gama",
+      "workshop": "Taller especializado",
+      "workshopTitle": "Venta, mantenimiento y reparación",
+      "workshopItems": [
+        "Reparación de pinchazos",
+        "Cambio de cámaras y neumáticos",
+        "Ruedas macizas antipinchazos",
+        "Diagnóstico y sustitución de baterías",
+        "Ajuste y cambio de frenos y discos",
+        "Centralitas y electrónica",
+        "Holguras de mástil y sistema de plegado",
+        "Venta de patinetes homologados",
+        "Cascos, candados y accesorios"
+      ],
+      "contact": "Contactar con la tienda"
+    },
+    "telecom": {
+      "eyebrow": "Fibra · Móvil · TV",
+      "title": "Conectividad y entretenimiento con O2",
+      "description": "Te ayudamos con altas, portabilidades y la elección de fibra, móvil y televisión según tus necesidades y la cobertura disponible en Menorca.",
+      "rates": "Consultar tarifas",
+      "sectionEyebrow": "Telecomunicaciones",
+      "sectionTitle": "Fibra y móvil con asesoramiento local",
+      "services": [
+        "Altas y portabilidades",
+        "Fibra y móvil",
+        "O2",
+        "Digi",
+        "MásMóvil",
+        "Pepephone",
+        "Estudio de cobertura en Menorca",
+        "Asesoramiento personalizado según zona"
+      ],
+      "tvEyebrow": "Televisión y entretenimiento",
+      "tvTitle": "Elige el contenido que quieres ver",
+      "tvDesc": "Opciones de televisión y streaming disponibles junto a determinadas tarifas de O2.",
+      "features": [
+        [
+          "Cine, series y todos los originales de Movistar Plus",
+          "Lo mejor del deporte con fútbol, baloncesto, tenis y mucho más",
+          "Documentales y más de 80 canales",
+          "Multidispositivo y calidad 4K/UHD",
+          "Incluye dos reproducciones simultáneas"
+        ],
+        [
+          "Netflix Estándar con anuncios con tu tarifa",
+          "Posibilidad de cambiar al plan que prefieras",
+          "Películas, series y mucho más",
+          "Posibilidad de conservar o vincular tu cuenta de Netflix",
+          "Multidispositivo y calidad desde 1080p (Full HD)",
+          "Sin cables, todo en la app de Netflix"
+        ],
+        [
+          "Disney+ estándar con anuncios con tu tarifa",
+          "Posibilidad de cambiar la suscripción al plan que prefieras",
+          "Originales exclusivos, películas y series de éxito",
+          "Clásicos y lo último de Walt Disney Animation Studios y Pixar",
+          "Contenido de Hulu, realities, crímenes reales, terror y mucho más",
+          "La saga Star Wars al completo y gran parte del Universo Marvel",
+          "Posibilidad de conservar o vincular tu cuenta de Disney+",
+          "Multidispositivo y calidad 4K/UHD"
+        ]
+      ],
+      "consult": "Consultar"
+    },
+    "business": {
+      "eyebrow": "Tecnología profesional · Toda Menorca",
+      "title": "Soluciones informáticas para empresas en Menorca.",
+      "description": "Redes y Wi-Fi, equipamiento informático, instalaciones en hoteles y soluciones TPV y facturación. Asesoramiento, instalación y soporte en tu establecimiento.",
+      "action": "Consultar proyecto",
+      "highlights": [
+        "Redes y Wi-Fi",
+        "Equipamiento informático",
+        "Instalaciones en hoteles",
+        "TPV y facturación"
+      ],
+      "coverage": "Servicio en toda Menorca",
+      "onsite": "Desplazamiento a tu establecimiento",
+      "servicesEyebrow": "Servicios para empresas",
+      "servicesTitle": "Soluciones profesionales en toda Menorca",
+      "items": [
+        "Cableado estructurado",
+        "Armarios Rack",
+        "Switches y redes profesionales",
+        "Wi-Fi profesional con roaming",
+        "Equipamiento informático para empresas",
+        "Instalaciones informáticas en hoteles",
+        "Videovigilancia IP y NVR",
+        "Acceso remoto a cámaras",
+        "TPV y equipos de facturación",
+        "Soluciones de facturación adaptadas a la normativa aplicable",
+        "Mantenimiento informático para empresas",
+        "Asistencia remota e in situ",
+        "Radioenlaces para fincas",
+        "Wi-Fi exterior y conectividad rural"
+      ]
+    },
+    "contact": {
+      "eyebrow": "Contacto",
+      "title": "Tienda física en Ciutadella",
+      "description": "Ven a vernos, llámanos o escríbenos por WhatsApp. Te ayudamos con compras, reparaciones, telecomunicaciones y soluciones para empresas.",
+      "imageAlt": "Atención al cliente en APP Informática Menorca"
+    },
+    "catalog": {
+      "eyebrow": "Catálogo online",
+      "title": "Más de 5.000 referencias",
+      "description": "Acceso al catálogo online de informática, gaming, redes, impresión, periféricos y electrónica.",
+      "button": "Abrir catálogo"
+    },
+    "status": {
+      "open": "Abierto ahora",
+      "closed": "Cerrado",
+      "until": "Hasta las",
+      "openAt": "Abrimos a las",
+      "tomorrow": "Abrimos mañana a las",
+      "monday": "Abrimos el lunes a las"
+    }
+  },
+  "ca": {
+    "nav": {
+      "home": "Inici",
+      "service": "Servei Tècnic",
+      "scooters": "Patinets",
+      "telecom": "Fibra i Mòbil",
+      "business": "Empreses",
+      "contact": "Contacte",
+      "pcBuilder": "PC Gaming",
+      "online": "Botiga online",
+      "menu": "Menú",
+      "close": "Tancar"
+    },
+    "common": {
+      "whatsapp": "Consultar per WhatsApp",
+      "more": "Més informació",
+      "directions": "Com arribar",
+      "schedule": "Horari",
+      "weekdays": "Dilluns a divendres",
+      "closedWeekend": "Dissabtes i diumenges tancat",
+      "map": "Mapa i ubicació",
+      "store": "Botiga a Ciutadella"
+    },
+    "footer": "Tecnologia i servei tècnic a Menorca.",
+    "home": {
+      "eyebrow": "La teva botiga d'informàtica a Ciutadella",
+      "title": "Tecnologia per al teu dia a dia",
+      "description": "Ordinadors, components, perifèrics i molt més. Assessorament proper i professional, amb servei tècnic a tota l'illa.",
+      "products": "Veure productes",
+      "whatsapp": "Consultar per WhatsApp",
+      "trust": [
+        "Assessorament personalitzat",
+        "Servei tècnic propi",
+        "Enviaments a tota Menorca",
+        "Solucions per a particulars i empreses"
+      ],
+      "categoriesTitle": "Tot el que necessites en tecnologia",
+      "categoriesEyebrow": "Botiga d'informàtica",
+      "allCategories": "Veure totes les categories",
+      "categories": [
+        [
+          "Ordinadors i portàtils",
+          "Equips per a casa, estudi i feina"
+        ],
+        [
+          "Impressores i tintes",
+          "Impressió i consumibles"
+        ],
+        [
+          "Gaming i consoles",
+          "Equips, accessoris i entreteniment"
+        ],
+        [
+          "Televisors i accessoris",
+          "Tecnologia per a la llar"
+        ]
+      ],
+      "servicesEyebrow": "Serveis APP Informàtica",
+      "servicesTitle": "Més serveis d'APP Informàtica",
+      "cards": [
+        [
+          "Taller multimarca",
+          "Servei Tècnic Integral",
+          "Ordinadors, mòbils, tauletes i equips Apple.",
+          "Veure servei tècnic"
+        ],
+        [
+          "Mobilitat",
+          "Patinets elèctrics",
+          "Venda, reparació, rodes, frens i bateries.",
+          "Veure patinets"
+        ],
+        [
+          "Connectivitat",
+          "Fibra, mòbil i tarifes",
+          "O2, Digi, MásMóvil i assessorament de cobertura.",
+          "Veure tarifes"
+        ],
+        [
+          "Professional",
+          "Empreses i finques",
+          "Wi-Fi, xarxes, CCTV, TPV, suport i radioenllaços.",
+          "Veure solucions"
+        ]
+      ],
+      "apple": [
+        "Apple",
+        "Distribuïdor autoritzat Apple",
+        "Equips, accessoris i assessorament."
+      ],
+      "xiaomi": [
+        "Xiaomi",
+        "Botiga Xiaomi",
+        "Smartphones, dispositius i accessoris."
+      ],
+      "promo": [
+        "Servei destacat",
+        "El teu ordinador va lent?",
+        "Canvi a SSD, ampliació de memòria RAM, neteja interna i posada a punt.",
+        "Consultar"
+      ],
+      "badges": [
+        [
+          "Enviaments ràpids",
+          "Catàleg online amb lliurament."
+        ],
+        [
+          "Garantia oficial",
+          "Productes i reparacions."
+        ],
+        [
+          "Botiga física",
+          "Som a Ciutadella."
+        ],
+        [
+          "WhatsApp",
+          "Consulta directa."
+        ],
+        [
+          "Tracte proper",
+          "Assessorament local."
+        ]
+      ],
+      "storeWhatsapp": "Hola, os contacto desde la web de APP Informática Menorca."
+    },
+    "service": {
+      "eyebrow": "Taller multimarca",
+      "title": "Servei Tècnic",
+      "description": "Ordinadors, portàtils, Mac, mòbils, tauletes i recuperació de dades.",
+      "items": [
+        "Reparació d'ordinadors i portàtils",
+        "Ampliacions de RAM i canvi a SSD",
+        "Neteja interna i manteniment tèrmic",
+        "Eliminació de virus i posada a punt",
+        "Reparació i manteniment d'equips Apple",
+        "Pantalles, bateries i connectors de smartphones i tauletes",
+        "Protectors d'hidrogel a mida",
+        "Recuperació de dades i còpies de seguretat",
+        "Instal·lació neta de sistemes"
+      ],
+      "whatsapp": "Hola, us contacto des del web per consultar sobre el Servei Tècnic."
+    },
+    "scooters": {
+      "eyebrow": "Mobilitat elèctrica",
+      "title": "Patinets elèctrics ZWheel",
+      "description": "Venda i taller especialitzat a Ciutadella. T'assessorem per triar la gamma adequada i també fem manteniment i reparació.",
+      "view": "Veure gammes",
+      "whatsapp": "Consultar per WhatsApp",
+      "pillars": [
+        [
+          "Seguretat",
+          "Revisió, frenada i manteniment."
+        ],
+        [
+          "Tecnologia",
+          "Bateries, electrònica i diagnòstic."
+        ],
+        [
+          "Mobilitat",
+          "Opcions per a diferents usos i recorreguts."
+        ],
+        [
+          "Taller",
+          "Punxades, rodes, frens i ajustos."
+        ]
+      ],
+      "rangesEyebrow": "Gammes principals",
+      "rangesTitle": "Una gamma per a cada manera de moure't",
+      "rangesDesc": "Sis famílies ZWheel per a ciutat, llarg abast, ús intensiu i primeres experiències.",
+      "familyTitles": [
+        [
+          "Tot terreny amb potència",
+          "Per a rutes exigents, més tracció i suspensió preparada per a superfícies difícils.",
+          [
+            "Fins a 70 km",
+            "Suspensió hidràulica"
+          ]
+        ],
+        [
+          "Confort per a rutes llargues",
+          "Autonomia àmplia i suspensió DUO-SHOCK per moure’t amb estabilitat cada dia.",
+          [
+            "Fins a 70 km",
+            "DUO-SHOCK"
+          ]
+        ],
+        [
+          "Rendiment de llarg abast",
+          "Potència sòlida per a recorreguts intensos amb control i estabilitat.",
+          [
+            "Doble motor",
+            "Alt rendiment"
+          ]
+        ],
+        [
+          "Equilibri urbà pro",
+          "Una opció urbana completa per moure’t cada dia amb comoditat i autonomia.",
+          [
+            "Ciutat i distància",
+            "Confort diari"
+          ]
+        ],
+        [
+          "Lleuger per a la ciutat",
+          "Disseny plegable i àgil per a trajectes urbans curts i ús quotidià.",
+          [
+            "Plegable",
+            "Ús urbà"
+          ]
+        ],
+        [
+          "Primeres aventures",
+          "Patinet infantil lleuger i senzill, pensat per iniciar-s’hi amb facilitat.",
+          [
+            "Des de 6 anys",
+            "Maneig senzill"
+          ]
+        ]
+      ],
+      "consult": "Consultar gamma",
+      "workshop": "Taller especialitzat",
+      "workshopTitle": "Venda, manteniment i reparació",
+      "workshopItems": [
+        "Reparació de punxades",
+        "Canvi de cambres i pneumàtics",
+        "Rodes massisses antipunxades",
+        "Diagnòstic i substitució de bateries",
+        "Ajust i canvi de frens i discos",
+        "Centraletes i electrònica",
+        "Folgança de màstil i sistema de plegat",
+        "Venda de patinets homologats",
+        "Cascs, cadenats i accessoris"
+      ],
+      "contact": "Contactar amb la botiga"
+    },
+    "telecom": {
+      "eyebrow": "Fibra · Móvil · TV",
+      "title": "Connectivitat i entreteniment amb O2",
+      "description": "T'ajudem amb altes, portabilitats i l'elecció de fibra, mòbil i televisió segons les teves necessitats i la cobertura disponible a Menorca.",
+      "rates": "Consultar tarifes",
+      "sectionEyebrow": "Telecomunicaciones",
+      "sectionTitle": "Fibra i mòbil amb assessorament local",
+      "services": [
+        "Altes i portabilitats",
+        "Fibra i mòbil",
+        "O2",
+        "Digi",
+        "MásMóvil",
+        "Pepephone",
+        "Estudi de cobertura a Menorca",
+        "Assessorament personalitzat segons la zona"
+      ],
+      "tvEyebrow": "Televisió i entreteniment",
+      "tvTitle": "Tria el contingut que vols veure",
+      "tvDesc": "Opcions de televisió i streaming disponibles amb determinades tarifes d'O2.",
+      "features": [
+        [
+          "Cinema, sèries i tots els originals de Movistar Plus",
+          "El millor esport amb futbol, bàsquet, tennis i molt més",
+          "Documentals i més de 80 canals",
+          "Multidispositiu i qualitat 4K/UHD",
+          "Inclou dues reproduccions simultànies"
+        ],
+        [
+          "Netflix Estàndard amb anuncis amb la teva tarifa",
+          "Possibilitat de canviar al pla que prefereixis",
+          "Pel·lícules, sèries i molt més",
+          "Possibilitat de conservar o vincular el teu compte de Netflix",
+          "Multidispositiu i qualitat des de 1080p (Full HD)",
+          "Sense cables, tot a l'app de Netflix"
+        ],
+        [
+          "Disney+ estàndard amb anuncis amb la teva tarifa",
+          "Possibilitat de canviar la subscripció al pla que prefereixis",
+          "Originals exclusius, pel·lícules i sèries d'èxit",
+          "Clàssics i les últimes novetats de Walt Disney Animation Studios i Pixar",
+          "Contingut de Hulu, realities, crims reals, terror i molt més",
+          "La saga Star Wars completa i gran part de l'Univers Marvel",
+          "Possibilitat de conservar o vincular el teu compte de Disney+",
+          "Multidispositiu i qualitat 4K/UHD"
+        ]
+      ],
+      "consult": "Consultar"
+    },
+    "business": {
+      "eyebrow": "Tecnologia professional · Tota Menorca",
+      "title": "Solucions informàtiques per a empreses a Menorca.",
+      "description": "Xarxes i Wi-Fi, equipament informàtic, instal·lacions en hotels i solucions TPV i facturació. Assessorament, instal·lació i suport al teu establiment.",
+      "action": "Consultar projecte",
+      "highlights": [
+        "Xarxes i Wi-Fi",
+        "Equipament informàtic",
+        "Instal·lacions en hotels",
+        "TPV i facturació"
+      ],
+      "coverage": "Servei a tota Menorca",
+      "onsite": "Desplaçament al teu establiment",
+      "servicesEyebrow": "Serveis per a empreses",
+      "servicesTitle": "Solucions professionals a tota Menorca",
+      "items": [
+        "Cablejat estructurat",
+        "Armaris Rack",
+        "Switches i xarxes professionals",
+        "Wi-Fi professional amb roaming",
+        "Equipament informàtic per a empreses",
+        "Instal·lacions informàtiques en hotels",
+        "Videovigilància IP i NVR",
+        "Accés remot a càmeres",
+        "TPV i equips de facturació",
+        "Solucions de facturació adaptades a la normativa aplicable",
+        "Manteniment informàtic per a empreses",
+        "Assistència remota i in situ",
+        "Radioenllaços per a finques",
+        "Wi-Fi exterior i connectivitat rural"
+      ]
+    },
+    "contact": {
+      "eyebrow": "Contacte",
+      "title": "Botiga física a Ciutadella",
+      "description": "Vine a veure'ns, truca'ns o escriu-nos per WhatsApp. T'ajudem amb compres, reparacions, telecomunicacions i solucions per a empreses.",
+      "imageAlt": "Atenció al client a APP Informàtica Menorca"
+    },
+    "catalog": {
+      "eyebrow": "Catàleg online",
+      "title": "Més de 5.000 referències",
+      "description": "Accés al catàleg online d'informàtica, gaming, xarxes, impressió, perifèrics i electrònica.",
+      "button": "Obrir catàleg"
+    },
+    "status": {
+      "open": "Obert ara",
+      "closed": "Tancat",
+      "until": "Fins a les",
+      "openAt": "Obrim a les",
+      "tomorrow": "Obrim demà a les",
+      "monday": "Obrim dilluns a les"
+    }
+  },
+  "en": {
+    "nav": {
+      "home": "Home",
+      "service": "Technical Service",
+      "scooters": "Scooters",
+      "telecom": "Fibre & Mobile",
+      "business": "Business",
+      "contact": "Contact",
+      "pcBuilder": "Gaming PC",
+      "online": "Online store",
+      "menu": "Menu",
+      "close": "Close"
+    },
+    "common": {
+      "whatsapp": "Ask on WhatsApp",
+      "more": "More information",
+      "directions": "Directions",
+      "schedule": "Opening hours",
+      "weekdays": "Monday to Friday",
+      "closedWeekend": "Closed Saturdays and Sundays",
+      "map": "Map and location",
+      "store": "Store in Ciutadella"
+    },
+    "footer": "Technology and technical service in Menorca.",
+    "home": {
+      "eyebrow": "Your computer store in Ciutadella",
+      "title": "Technology for everyday life",
+      "description": "Computers, components, peripherals and much more. Friendly professional advice, with technical service across the island.",
+      "products": "View products",
+      "whatsapp": "Ask on WhatsApp",
+      "trust": [
+        "Personal advice",
+        "In-house technical service",
+        "Delivery across Menorca",
+        "Solutions for individuals and businesses"
+      ],
+      "categoriesTitle": "Everything you need in technology",
+      "categoriesEyebrow": "Computer store",
+      "allCategories": "View all categories",
+      "categories": [
+        [
+          "Computers and laptops",
+          "Equipment for home, study and work"
+        ],
+        [
+          "Printers and ink",
+          "Printing and consumables"
+        ],
+        [
+          "Gaming and consoles",
+          "Equipment, accessories and entertainment"
+        ],
+        [
+          "TVs and accessories",
+          "Technology for your home"
+        ]
+      ],
+      "servicesEyebrow": "APP Informática services",
+      "servicesTitle": "More APP Informática services",
+      "cards": [
+        [
+          "Multi-brand workshop",
+          "Complete Technical Service",
+          "Computers, phones, tablets and Apple devices.",
+          "View technical service"
+        ],
+        [
+          "Mobility",
+          "Electric scooters",
+          "Sales, repairs, tyres, brakes and batteries.",
+          "View scooters"
+        ],
+        [
+          "Connectivity",
+          "Fibre, mobile and plans",
+          "O2, Digi, MásMóvil and coverage advice.",
+          "View plans"
+        ],
+        [
+          "Professional",
+          "Businesses and rural properties",
+          "Wi-Fi, networks, CCTV, POS, support and radio links.",
+          "View solutions"
+        ]
+      ],
+      "apple": [
+        "Apple",
+        "Apple Authorized Reseller",
+        "Devices, accessories and advice."
+      ],
+      "xiaomi": [
+        "Xiaomi",
+        "Xiaomi store",
+        "Smartphones, devices and accessories."
+      ],
+      "promo": [
+        "Featured service",
+        "Is your computer running slowly?",
+        "SSD upgrades, RAM expansion, internal cleaning and tune-ups.",
+        "Ask us"
+      ],
+      "badges": [
+        [
+          "Fast delivery",
+          "Online catalogue with delivery."
+        ],
+        [
+          "Official warranty",
+          "Products and repairs."
+        ],
+        [
+          "Physical store",
+          "We are in Ciutadella."
+        ],
+        [
+          "WhatsApp",
+          "Direct enquiries."
+        ],
+        [
+          "Personal service",
+          "Local advice."
+        ]
+      ],
+      "storeWhatsapp": "Hola, os contacto desde la web de APP Informática Menorca."
+    },
+    "service": {
+      "eyebrow": "Multi-brand workshop",
+      "title": "Technical Service",
+      "description": "Computers, laptops, Mac, phones, tablets and data recovery.",
+      "items": [
+        "Computer and laptop repairs",
+        "RAM upgrades and SSD replacement",
+        "Internal cleaning and thermal maintenance",
+        "Virus removal and system tune-ups",
+        "Apple device repair and maintenance",
+        "Screens, batteries and connectors for smartphones and tablets",
+        "Custom hydrogel screen protectors",
+        "Data recovery and backups",
+        "Clean operating system installation"
+      ],
+      "whatsapp": "Hello, I am contacting you from the website about Technical Service."
+    },
+    "scooters": {
+      "eyebrow": "Electric mobility",
+      "title": "ZWheel electric scooters",
+      "description": "Sales and specialist workshop in Ciutadella. We help you choose the right range and also provide maintenance and repairs.",
+      "view": "View ranges",
+      "whatsapp": "Ask on WhatsApp",
+      "pillars": [
+        [
+          "Safety",
+          "Inspection, braking and maintenance."
+        ],
+        [
+          "Technology",
+          "Batteries, electronics and diagnostics."
+        ],
+        [
+          "Mobility",
+          "Options for different uses and journeys."
+        ],
+        [
+          "Workshop",
+          "Punctures, tyres, brakes and adjustments."
+        ]
+      ],
+      "rangesEyebrow": "Main ranges",
+      "rangesTitle": "A range for every way of getting around",
+      "rangesDesc": "Six ZWheel families for the city, long range, intensive use and first experiences.",
+      "familyTitles": [
+        [
+          "All-terrain power",
+          "For demanding routes, with extra traction and suspension for difficult surfaces.",
+          [
+            "Up to 70 km",
+            "Hydraulic suspension"
+          ]
+        ],
+        [
+          "Comfort for long journeys",
+          "Long range and DUO-SHOCK suspension for stable everyday riding.",
+          [
+            "Up to 70 km",
+            "DUO-SHOCK"
+          ]
+        ],
+        [
+          "Long-range performance",
+          "Solid power for intensive journeys with control and stability.",
+          [
+            "Dual motor",
+            "High performance"
+          ]
+        ],
+        [
+          "Urban balance pro",
+          "A complete urban option for comfortable everyday mobility and range.",
+          [
+            "City and distance",
+            "Daily comfort"
+          ]
+        ],
+        [
+          "Lightweight for the city",
+          "Foldable, agile design for short urban trips and everyday use.",
+          [
+            "Foldable",
+            "Urban use"
+          ]
+        ],
+        [
+          "First adventures",
+          "A light, simple children's scooter designed for an easy start.",
+          [
+            "From age 6",
+            "Easy handling"
+          ]
+        ]
+      ],
+      "consult": "Ask about range",
+      "workshop": "Specialist workshop",
+      "workshopTitle": "Sales, maintenance and repair",
+      "workshopItems": [
+        "Puncture repairs",
+        "Inner tube and tyre replacement",
+        "Puncture-resistant solid tyres",
+        "Battery diagnosis and replacement",
+        "Brake and disc adjustment and replacement",
+        "Controllers and electronics",
+        "Stem play and folding system",
+        "Sales of approved scooters",
+        "Helmets, locks and accessories"
+      ],
+      "contact": "Contact the store"
+    },
+    "telecom": {
+      "eyebrow": "Fibra · Móvil · TV",
+      "title": "Connectivity and entertainment with O2",
+      "description": "We help with new lines, porting and choosing fibre, mobile and TV based on your needs and the coverage available in Menorca.",
+      "rates": "Ask about plans",
+      "sectionEyebrow": "Telecommunications",
+      "sectionTitle": "Fibre and mobile with local advice",
+      "services": [
+        "New lines and porting",
+        "Fibre and mobile",
+        "O2",
+        "Digi",
+        "MásMóvil",
+        "Pepephone",
+        "Coverage study in Menorca",
+        "Personal advice for your area"
+      ],
+      "tvEyebrow": "TV and entertainment",
+      "tvTitle": "Choose what you want to watch",
+      "tvDesc": "TV and streaming options available with selected O2 plans.",
+      "features": [
+        [
+          "Cine, series y todos los originales de Movistar Plus",
+          "Lo mejor del deporte con fútbol, baloncesto, tenis y mucho más",
+          "Documentales y más de 80 canales",
+          "Multidispositivo y calidad 4K/UHD",
+          "Incluye dos reproducciones simultáneas"
+        ],
+        [
+          "Netflix Estándar con anuncios con tu tarifa",
+          "Posibilidad de cambiar al plan que prefieras",
+          "Películas, series y mucho más",
+          "Posibilidad de conservar o vincular tu cuenta de Netflix",
+          "Multidispositivo y calidad desde 1080p (Full HD)",
+          "Sin cables, todo en la app de Netflix"
+        ],
+        [
+          "Disney+ estándar con anuncios con tu tarifa",
+          "Posibilidad de cambiar la suscripción al plan que prefieras",
+          "Originales exclusivos, películas y series de éxito",
+          "Clásicos y lo último de Walt Disney Animation Studios y Pixar",
+          "Contenido de Hulu, realities, crímenes reales, terror y mucho más",
+          "La saga Star Wars al completo y gran parte del Universo Marvel",
+          "Posibilidad de conservar o vincular tu cuenta de Disney+",
+          "Multidispositivo y calidad 4K/UHD"
+        ]
+      ],
+      "consult": "Ask about"
+    },
+    "business": {
+      "eyebrow": "Professional technology · Across Menorca",
+      "title": "IT solutions for businesses in Menorca.",
+      "description": "Networks and Wi-Fi, IT equipment, hotel installations, POS and invoicing solutions. Advice, installation and support at your premises.",
+      "action": "Discuss a project",
+      "highlights": [
+        "Networks and Wi-Fi",
+        "IT equipment",
+        "Hotel installations",
+        "POS and invoicing"
+      ],
+      "coverage": "Service across Menorca",
+      "onsite": "On-site visits to your premises",
+      "servicesEyebrow": "Business services",
+      "servicesTitle": "Professional solutions across Menorca",
+      "items": [
+        "Structured cabling",
+        "Rack cabinets",
+        "Professional switches and networks",
+        "Professional Wi-Fi with roaming",
+        "IT equipment for businesses",
+        "IT installations in hotels",
+        "IP video surveillance and NVR",
+        "Remote camera access",
+        "POS and invoicing equipment",
+        "Invoicing solutions adapted to applicable regulations",
+        "Business IT maintenance",
+        "Remote and on-site assistance",
+        "Radio links for rural properties",
+        "Outdoor Wi-Fi and rural connectivity"
+      ]
+    },
+    "contact": {
+      "eyebrow": "Contact",
+      "title": "Physical store in Ciutadella",
+      "description": "Visit us, call us or message us on WhatsApp. We can help with purchases, repairs, telecommunications and business solutions.",
+      "imageAlt": "Customer service at APP Informática Menorca"
+    },
+    "catalog": {
+      "eyebrow": "Online catalogue",
+      "title": "More than 5,000 products",
+      "description": "Access our online catalogue of computing, gaming, networking, printing, peripherals and electronics.",
+      "button": "Open catalogue"
+    },
+    "status": {
+      "open": "Open now",
+      "closed": "Closed",
+      "until": "Until",
+      "openAt": "Opens at",
+      "tomorrow": "Opens tomorrow at",
+      "monday": "Opens Monday at"
+    }
+  },
+  "fr": {
+    "nav": {
+      "home": "Accueil",
+      "service": "Service technique",
+      "scooters": "Trottinettes",
+      "telecom": "Fibre & Mobile",
+      "business": "Entreprises",
+      "contact": "Contact",
+      "pcBuilder": "PC Gaming",
+      "online": "Boutique en ligne",
+      "menu": "Menu",
+      "close": "Fermer"
+    },
+    "common": {
+      "whatsapp": "Demander sur WhatsApp",
+      "more": "Plus d'informations",
+      "directions": "Itinéraire",
+      "schedule": "Horaires",
+      "weekdays": "Du lundi au vendredi",
+      "closedWeekend": "Fermé le samedi et le dimanche",
+      "map": "Carte et localisation",
+      "store": "Magasin à Ciutadella"
+    },
+    "footer": "Technologie et service technique à Minorque.",
+    "home": {
+      "eyebrow": "Votre magasin informatique à Ciutadella",
+      "title": "La technologie au quotidien",
+      "description": "Ordinateurs, composants, périphériques et bien plus encore. Conseil professionnel et de proximité, avec service technique dans toute l'île.",
+      "products": "Voir les produits",
+      "whatsapp": "Demander sur WhatsApp",
+      "trust": [
+        "Conseil personnalisé",
+        "Service technique interne",
+        "Livraison dans toute Minorque",
+        "Solutions pour particuliers et entreprises"
+      ],
+      "categoriesTitle": "Tout ce qu'il vous faut en technologie",
+      "categoriesEyebrow": "Magasin informatique",
+      "allCategories": "Voir toutes les catégories",
+      "categories": [
+        [
+          "Ordinateurs et portables",
+          "Équipements pour la maison, les études et le travail"
+        ],
+        [
+          "Imprimantes et encres",
+          "Impression et consommables"
+        ],
+        [
+          "Gaming et consoles",
+          "Équipements, accessoires et divertissement"
+        ],
+        [
+          "Téléviseurs et accessoires",
+          "Technologie pour la maison"
+        ]
+      ],
+      "servicesEyebrow": "Services APP Informática",
+      "servicesTitle": "Plus de services APP Informática",
+      "cards": [
+        [
+          "Atelier multimarque",
+          "Service technique complet",
+          "Ordinateurs, mobiles, tablettes et appareils Apple.",
+          "Voir le service technique"
+        ],
+        [
+          "Mobilité",
+          "Trottinettes électriques",
+          "Vente, réparation, pneus, freins et batteries.",
+          "Voir les trottinettes"
+        ],
+        [
+          "Connectivité",
+          "Fibre, mobile et forfaits",
+          "O2, Digi, MásMóvil et conseil en couverture.",
+          "Voir les forfaits"
+        ],
+        [
+          "Professionnel",
+          "Entreprises et propriétés rurales",
+          "Wi-Fi, réseaux, CCTV, TPV, support et liaisons radio.",
+          "Voir les solutions"
+        ]
+      ],
+      "apple": [
+        "Apple",
+        "Revendeur agréé Apple",
+        "Équipements, accessoires et conseil."
+      ],
+      "xiaomi": [
+        "Xiaomi",
+        "Boutique Xiaomi",
+        "Smartphones, appareils et accessoires."
+      ],
+      "promo": [
+        "Service à la une",
+        "Votre ordinateur est lent ?",
+        "Passage au SSD, ajout de RAM, nettoyage interne et optimisation.",
+        "Nous contacter"
+      ],
+      "badges": [
+        [
+          "Livraison rapide",
+          "Catalogue en ligne avec livraison."
+        ],
+        [
+          "Garantie officielle",
+          "Produits et réparations."
+        ],
+        [
+          "Magasin physique",
+          "Nous sommes à Ciutadella."
+        ],
+        [
+          "WhatsApp",
+          "Contact direct."
+        ],
+        [
+          "Service de proximité",
+          "Conseil local."
+        ]
+      ],
+      "storeWhatsapp": "Hola, os contacto desde la web de APP Informática Menorca."
+    },
+    "service": {
+      "eyebrow": "Atelier multimarque",
+      "title": "Service technique",
+      "description": "Ordinateurs, portables, Mac, mobiles, tablettes et récupération de données.",
+      "items": [
+        "Réparation d'ordinateurs et de portables",
+        "Extension de RAM et passage au SSD",
+        "Nettoyage interne et maintenance thermique",
+        "Suppression de virus et optimisation",
+        "Réparation et maintenance des appareils Apple",
+        "Écrans, batteries et connecteurs de smartphones et tablettes",
+        "Protections hydrogel sur mesure",
+        "Récupération de données et sauvegardes",
+        "Installation propre des systèmes"
+      ],
+      "whatsapp": "Bonjour, je vous contacte depuis le site au sujet du service technique."
+    },
+    "scooters": {
+      "eyebrow": "Mobilité électrique",
+      "title": "Trottinettes électriques ZWheel",
+      "description": "Vente et atelier spécialisé à Ciutadella. Nous vous aidons à choisir la gamme adaptée et assurons aussi l'entretien et la réparation.",
+      "view": "Voir les gammes",
+      "whatsapp": "Demander sur WhatsApp",
+      "pillars": [
+        [
+          "Sécurité",
+          "Contrôle, freinage et entretien."
+        ],
+        [
+          "Technologie",
+          "Batteries, électronique et diagnostic."
+        ],
+        [
+          "Mobilité",
+          "Des options pour différents usages et trajets."
+        ],
+        [
+          "Atelier",
+          "Crevaisons, pneus, freins et réglages."
+        ]
+      ],
+      "rangesEyebrow": "Gammes principales",
+      "rangesTitle": "Une gamme pour chaque façon de se déplacer",
+      "rangesDesc": "Six familles ZWheel pour la ville, les longues distances, l'usage intensif et les premières expériences.",
+      "familyTitles": [
+        [
+          "Tout-terrain puissant",
+          "Pour les trajets exigeants, avec plus d’adhérence et une suspension adaptée aux surfaces difficiles.",
+          [
+            "Jusqu’à 70 km",
+            "Suspension hydraulique"
+          ]
+        ],
+        [
+          "Confort pour les longues distances",
+          "Grande autonomie et suspension DUO-SHOCK pour rouler avec stabilité au quotidien.",
+          [
+            "Jusqu’à 70 km",
+            "DUO-SHOCK"
+          ]
+        ],
+        [
+          "Performances longue portée",
+          "Une puissance solide pour les trajets intensifs avec contrôle et stabilité.",
+          [
+            "Double moteur",
+            "Haute performance"
+          ]
+        ],
+        [
+          "Équilibre urbain pro",
+          "Une option urbaine complète pour se déplacer chaque jour avec confort et autonomie.",
+          [
+            "Ville et distance",
+            "Confort quotidien"
+          ]
+        ],
+        [
+          "Léger pour la ville",
+          "Design pliable et agile pour les courts trajets urbains et l’usage quotidien.",
+          [
+            "Pliable",
+            "Usage urbain"
+          ]
+        ],
+        [
+          "Premières aventures",
+          "Trottinette enfant légère et simple, conçue pour débuter facilement.",
+          [
+            "Dès 6 ans",
+            "Prise en main facile"
+          ]
+        ]
+      ],
+      "consult": "Demander cette gamme",
+      "workshop": "Atelier spécialisé",
+      "workshopTitle": "Vente, entretien et réparation",
+      "workshopItems": [
+        "Réparation des crevaisons",
+        "Remplacement des chambres à air et pneus",
+        "Pneus pleins anti-crevaison",
+        "Diagnostic et remplacement des batteries",
+        "Réglage et remplacement des freins et disques",
+        "Contrôleurs et électronique",
+        "Jeu de potence et système de pliage",
+        "Vente de trottinettes homologuées",
+        "Casques, antivols et accessoires"
+      ],
+      "contact": "Contacter le magasin"
+    },
+    "telecom": {
+      "eyebrow": "Fibra · Móvil · TV",
+      "title": "Connectivité et divertissement avec O2",
+      "description": "Nous vous aidons pour les nouvelles lignes, la portabilité et le choix de la fibre, du mobile et de la TV selon vos besoins et la couverture disponible à Minorque.",
+      "rates": "Voir les forfaits",
+      "sectionEyebrow": "Telecomunicaciones",
+      "sectionTitle": "Fibre et mobile avec conseil local",
+      "services": [
+        "Nouvelles lignes et portabilité",
+        "Fibre et mobile",
+        "O2",
+        "Digi",
+        "MásMóvil",
+        "Pepephone",
+        "Étude de couverture à Minorque",
+        "Conseil personnalisé selon votre zone"
+      ],
+      "tvEyebrow": "Télévision et divertissement",
+      "tvTitle": "Choisissez ce que vous voulez regarder",
+      "tvDesc": "Options TV et streaming disponibles avec certains forfaits O2.",
+      "features": [
+        [
+          "Cinéma, séries et toutes les créations originales de Movistar Plus",
+          "Le meilleur du sport : football, basket, tennis et bien plus",
+          "Documentaires et plus de 80 chaînes",
+          "Multi-écrans et qualité 4K/UHD",
+          "Deux lectures simultanées incluses"
+        ],
+        [
+          "Netflix Standard avec publicité inclus dans votre forfait",
+          "Possibilité de passer au forfait de votre choix",
+          "Films, séries et bien plus encore",
+          "Possibilité de conserver ou lier votre compte Netflix",
+          "Multi-écrans et qualité à partir de 1080p (Full HD)",
+          "Sans câble, tout dans l’application Netflix"
+        ],
+        [
+          "Disney+ Standard avec publicité inclus dans votre forfait",
+          "Possibilité de passer à l’abonnement de votre choix",
+          "Créations originales exclusives, films et séries à succès",
+          "Classiques et nouveautés de Walt Disney Animation Studios et Pixar",
+          "Contenus Hulu, téléréalité, faits divers, horreur et bien plus",
+          "Toute la saga Star Wars et une grande partie de l’univers Marvel",
+          "Possibilité de conserver ou lier votre compte Disney+",
+          "Multi-écrans et qualité 4K/UHD"
+        ]
+      ],
+      "consult": "Demander"
+    },
+    "business": {
+      "eyebrow": "Technologie professionnelle · Toute Minorque",
+      "title": "Solutions informatiques pour les entreprises à Minorque.",
+      "description": "Réseaux et Wi-Fi, matériel informatique, installations hôtelières, solutions TPV et facturation. Conseil, installation et support dans vos locaux.",
+      "action": "Parler de votre projet",
+      "highlights": [
+        "Réseaux et Wi-Fi",
+        "Matériel informatique",
+        "Installations hôtelières",
+        "TPV et facturation"
+      ],
+      "coverage": "Service dans toute Minorque",
+      "onsite": "Déplacement dans vos locaux",
+      "servicesEyebrow": "Services aux entreprises",
+      "servicesTitle": "Solutions professionnelles dans toute Minorque",
+      "items": [
+        "Câblage structuré",
+        "Baies Rack",
+        "Switches et réseaux professionnels",
+        "Wi-Fi professionnel avec roaming",
+        "Matériel informatique pour entreprises",
+        "Installations informatiques dans les hôtels",
+        "Vidéosurveillance IP et NVR",
+        "Accès à distance aux caméras",
+        "TPV et équipements de facturation",
+        "Solutions de facturation conformes à la réglementation applicable",
+        "Maintenance informatique pour entreprises",
+        "Assistance à distance et sur site",
+        "Liaisons radio pour propriétés rurales",
+        "Wi-Fi extérieur et connectivité rurale"
+      ]
+    },
+    "contact": {
+      "eyebrow": "Contact",
+      "title": "Magasin physique à Ciutadella",
+      "description": "Venez nous voir, appelez-nous ou écrivez-nous sur WhatsApp. Nous vous aidons pour vos achats, réparations, télécommunications et solutions professionnelles.",
+      "imageAlt": "Accueil client chez APP Informática Menorca"
+    },
+    "catalog": {
+      "eyebrow": "Catalogue en ligne",
+      "title": "Plus de 5 000 références",
+      "description": "Accédez au catalogue en ligne d'informatique, gaming, réseaux, impression, périphériques et électronique.",
+      "button": "Ouvrir le catalogue"
+    },
+    "status": {
+      "open": "Ouvert maintenant",
+      "closed": "Fermé",
+      "until": "Jusqu'à",
+      "openAt": "Ouverture à",
+      "tomorrow": "Ouverture demain à",
+      "monday": "Ouverture lundi à"
+    }
+  },
+  "de": {
+    "nav": {
+      "home": "Start",
+      "service": "Technischer Service",
+      "scooters": "E-Scooter",
+      "telecom": "Glasfaser & Mobilfunk",
+      "business": "Unternehmen",
+      "contact": "Kontakt",
+      "pcBuilder": "Gaming-PC",
+      "online": "Onlineshop",
+      "menu": "Menü",
+      "close": "Schließen"
+    },
+    "common": {
+      "whatsapp": "Per WhatsApp anfragen",
+      "more": "Mehr erfahren",
+      "directions": "Route planen",
+      "schedule": "Öffnungszeiten",
+      "weekdays": "Montag bis Freitag",
+      "closedWeekend": "Samstag und Sonntag geschlossen",
+      "map": "Karte und Standort",
+      "store": "Geschäft in Ciutadella"
+    },
+    "footer": "Technik und technischer Service auf Menorca.",
+    "home": {
+      "eyebrow": "Ihr Computerfachgeschäft in Ciutadella",
+      "title": "Technik für jeden Tag",
+      "description": "Computer, Komponenten, Peripherie und vieles mehr. Persönliche, professionelle Beratung mit technischem Service auf der ganzen Insel.",
+      "products": "Produkte ansehen",
+      "whatsapp": "Per WhatsApp anfragen",
+      "trust": [
+        "Persönliche Beratung",
+        "Eigener technischer Service",
+        "Lieferung auf ganz Menorca",
+        "Lösungen für Privat- und Geschäftskunden"
+      ],
+      "categoriesTitle": "Alles, was Sie an Technik brauchen",
+      "categoriesEyebrow": "Computerfachgeschäft",
+      "allCategories": "Alle Kategorien ansehen",
+      "categories": [
+        [
+          "Computer und Laptops",
+          "Geräte für Zuhause, Studium und Arbeit"
+        ],
+        [
+          "Drucker und Tinte",
+          "Druck und Verbrauchsmaterial"
+        ],
+        [
+          "Gaming und Konsolen",
+          "Geräte, Zubehör und Unterhaltung"
+        ],
+        [
+          "Fernseher und Zubehör",
+          "Technik für Ihr Zuhause"
+        ]
+      ],
+      "servicesEyebrow": "APP Informática Services",
+      "servicesTitle": "Weitere Services von APP Informática",
+      "cards": [
+        [
+          "Mehrmarken-Werkstatt",
+          "Kompletter technischer Service",
+          "Computer, Smartphones, Tablets und Apple-Geräte.",
+          "Technischen Service ansehen"
+        ],
+        [
+          "Mobilität",
+          "Elektrische Scooter",
+          "Verkauf, Reparatur, Reifen, Bremsen und Batterien.",
+          "Scooter ansehen"
+        ],
+        [
+          "Konnektivität",
+          "Glasfaser, Mobilfunk und Tarife",
+          "O2, Digi, MásMóvil und Beratung zur Netzabdeckung.",
+          "Tarife ansehen"
+        ],
+        [
+          "Professionell",
+          "Unternehmen und Landhäuser",
+          "Wi-Fi, Netzwerke, CCTV, Kassensysteme, Support und Funkstrecken.",
+          "Lösungen ansehen"
+        ]
+      ],
+      "apple": [
+        "Apple",
+        "Autorisierter Apple Händler",
+        "Geräte, Zubehör und Beratung."
+      ],
+      "xiaomi": [
+        "Xiaomi",
+        "Xiaomi Shop",
+        "Smartphones, Geräte und Zubehör."
+      ],
+      "promo": [
+        "Empfohlener Service",
+        "Ist Ihr Computer langsam?",
+        "SSD-Upgrade, RAM-Erweiterung, Innenreinigung und Optimierung.",
+        "Anfragen"
+      ],
+      "badges": [
+        [
+          "Schnelle Lieferung",
+          "Online-Katalog mit Lieferung."
+        ],
+        [
+          "Offizielle Garantie",
+          "Produkte und Reparaturen."
+        ],
+        [
+          "Ladengeschäft",
+          "Wir sind in Ciutadella."
+        ],
+        [
+          "WhatsApp",
+          "Direkte Anfrage."
+        ],
+        [
+          "Persönlicher Service",
+          "Beratung vor Ort."
+        ]
+      ],
+      "storeWhatsapp": "Hola, os contacto desde la web de APP Informática Menorca."
+    },
+    "service": {
+      "eyebrow": "Mehrmarken-Werkstatt",
+      "title": "Technischer Service",
+      "description": "Computer, Laptops, Mac, Smartphones, Tablets und Datenrettung.",
+      "items": [
+        "Reparatur von Computern und Laptops",
+        "RAM-Erweiterung und SSD-Wechsel",
+        "Innenreinigung und thermische Wartung",
+        "Virenentfernung und Systemoptimierung",
+        "Reparatur und Wartung von Apple-Geräten",
+        "Displays, Akkus und Anschlüsse für Smartphones und Tablets",
+        "Maßgefertigte Hydrogel-Schutzfolien",
+        "Datenrettung und Backups",
+        "Saubere Systeminstallation"
+      ],
+      "whatsapp": "Hallo, ich kontaktiere Sie über die Website wegen des technischen Service."
+    },
+    "scooters": {
+      "eyebrow": "Elektromobilität",
+      "title": "ZWheel Elektro-Scooter",
+      "description": "Verkauf und Fachwerkstatt in Ciutadella. Wir beraten Sie bei der Wahl der passenden Modellreihe und übernehmen Wartung und Reparatur.",
+      "view": "Modellreihen ansehen",
+      "whatsapp": "Per WhatsApp anfragen",
+      "pillars": [
+        [
+          "Sicherheit",
+          "Inspektion, Bremsen und Wartung."
+        ],
+        [
+          "Technologie",
+          "Batterien, Elektronik und Diagnose."
+        ],
+        [
+          "Mobilität",
+          "Optionen für unterschiedliche Einsätze und Strecken."
+        ],
+        [
+          "Werkstatt",
+          "Reifenpannen, Reifen, Bremsen und Einstellungen."
+        ]
+      ],
+      "rangesEyebrow": "Hauptserien",
+      "rangesTitle": "Eine Serie für jede Art der Fortbewegung",
+      "rangesDesc": "Sechs ZWheel-Familien für Stadt, Reichweite, intensive Nutzung und erste Erfahrungen.",
+      "familyTitles": [
+        [
+          "Geländetaugliche Leistung",
+          "Für anspruchsvolle Strecken mit mehr Traktion und Federung für schwierige Untergründe.",
+          [
+            "Bis zu 70 km",
+            "Hydraulische Federung"
+          ]
+        ],
+        [
+          "Komfort für lange Strecken",
+          "Große Reichweite und DUO-SHOCK-Federung für stabiles Fahren im Alltag.",
+          [
+            "Bis zu 70 km",
+            "DUO-SHOCK"
+          ]
+        ],
+        [
+          "Leistung für große Reichweite",
+          "Solide Leistung für intensive Fahrten mit Kontrolle und Stabilität.",
+          [
+            "Doppelmotor",
+            "Hohe Leistung"
+          ]
+        ],
+        [
+          "Urbanes Gleichgewicht Pro",
+          "Eine komplette Stadtlösung für komfortable tägliche Mobilität und Reichweite.",
+          [
+            "Stadt und Distanz",
+            "Alltagskomfort"
+          ]
+        ],
+        [
+          "Leicht für die Stadt",
+          "Klappbares, wendiges Design für kurze Stadtfahrten und den Alltag.",
+          [
+            "Klappbar",
+            "Stadtnutzung"
+          ]
+        ],
+        [
+          "Erste Abenteuer",
+          "Leichter, einfacher Kinder-Scooter für einen unkomplizierten Einstieg.",
+          [
+            "Ab 6 Jahren",
+            "Einfache Bedienung"
+          ]
+        ]
+      ],
+      "consult": "Serie anfragen",
+      "workshop": "Fachwerkstatt",
+      "workshopTitle": "Verkauf, Wartung und Reparatur",
+      "workshopItems": [
+        "Reparatur von Reifenpannen",
+        "Wechsel von Schläuchen und Reifen",
+        "Pannensichere Vollgummireifen",
+        "Diagnose und Austausch von Batterien",
+        "Einstellung und Austausch von Bremsen und Scheiben",
+        "Controller und Elektronik",
+        "Lenkspiel und Klappmechanismus",
+        "Verkauf zugelassener E-Scooter",
+        "Helme, Schlösser und Zubehör"
+      ],
+      "contact": "Geschäft kontaktieren"
+    },
+    "telecom": {
+      "eyebrow": "Fibra · Móvil · TV",
+      "title": "Konnektivität und Unterhaltung mit O2",
+      "description": "Wir helfen bei Neuanschlüssen, Rufnummernmitnahme und der Auswahl von Glasfaser, Mobilfunk und TV entsprechend Ihren Anforderungen und der verfügbaren Abdeckung auf Menorca.",
+      "rates": "Tarife anfragen",
+      "sectionEyebrow": "Telecomunicaciones",
+      "sectionTitle": "Glasfaser und Mobilfunk mit lokaler Beratung",
+      "services": [
+        "Neuanschlüsse und Rufnummernmitnahme",
+        "Glasfaser und Mobilfunk",
+        "O2",
+        "Digi",
+        "MásMóvil",
+        "Pepephone",
+        "Prüfung der Netzabdeckung auf Menorca",
+        "Persönliche Beratung für Ihre Region"
+      ],
+      "tvEyebrow": "TV und Unterhaltung",
+      "tvTitle": "Wählen Sie, was Sie sehen möchten",
+      "tvDesc": "TV- und Streaming-Optionen, die mit ausgewählten O2-Tarifen verfügbar sind.",
+      "features": [
+        [
+          "Filme, Serien und alle Movistar-Plus-Originals",
+          "Top-Sport mit Fußball, Basketball, Tennis und mehr",
+          "Dokumentationen und mehr als 80 Sender",
+          "Mehrgeräte-Nutzung und 4K/UHD-Qualität",
+          "Zwei gleichzeitige Streams inklusive"
+        ],
+        [
+          "Netflix Standard mit Werbung in Ihrem Tarif",
+          "Wechsel auf den gewünschten Tarif möglich",
+          "Filme, Serien und vieles mehr",
+          "Bestehendes Netflix-Konto kann behalten oder verknüpft werden",
+          "Mehrgeräte-Nutzung und Qualität ab 1080p (Full HD)",
+          "Kabellos, alles in der Netflix-App"
+        ],
+        [
+          "Disney+ Standard mit Werbung in Ihrem Tarif",
+          "Wechsel auf den gewünschten Tarif möglich",
+          "Exklusive Originals, erfolgreiche Filme und Serien",
+          "Klassiker und Neuheiten von Walt Disney Animation Studios und Pixar",
+          "Hulu-Inhalte, Reality, True Crime, Horror und mehr",
+          "Die komplette Star-Wars-Saga und große Teile des Marvel-Universums",
+          "Bestehendes Disney+-Konto kann behalten oder verknüpft werden",
+          "Mehrgeräte-Nutzung und 4K/UHD-Qualität"
+        ]
+      ],
+      "consult": "Anfragen"
+    },
+    "business": {
+      "eyebrow": "Professionelle Technik · Ganz Menorca",
+      "title": "IT-Lösungen für Unternehmen auf Menorca.",
+      "description": "Netzwerke und Wi-Fi, IT-Ausstattung, Hotelinstallationen sowie Kassen- und Rechnungslösungen. Beratung, Installation und Support in Ihrem Betrieb.",
+      "action": "Projekt anfragen",
+      "highlights": [
+        "Netzwerke und Wi-Fi",
+        "IT-Ausstattung",
+        "Hotelinstallationen",
+        "Kassen und Rechnungen"
+      ],
+      "coverage": "Service auf ganz Menorca",
+      "onsite": "Vor-Ort-Service in Ihrem Betrieb",
+      "servicesEyebrow": "Services für Unternehmen",
+      "servicesTitle": "Professionelle Lösungen auf ganz Menorca",
+      "items": [
+        "Strukturierte Verkabelung",
+        "Rack-Schränke",
+        "Professionelle Switches und Netzwerke",
+        "Professionelles Wi-Fi mit Roaming",
+        "IT-Ausstattung für Unternehmen",
+        "IT-Installationen in Hotels",
+        "IP-Videoüberwachung und NVR",
+        "Fernzugriff auf Kameras",
+        "Kassensysteme und Rechnungstechnik",
+        "Rechnungslösungen gemäß geltenden Vorschriften",
+        "IT-Wartung für Unternehmen",
+        "Remote- und Vor-Ort-Support",
+        "Funkstrecken für ländliche Anwesen",
+        "Outdoor-Wi-Fi und ländliche Konnektivität"
+      ]
+    },
+    "contact": {
+      "eyebrow": "Kontakt",
+      "title": "Ladengeschäft in Ciutadella",
+      "description": "Besuchen Sie uns, rufen Sie an oder schreiben Sie uns per WhatsApp. Wir helfen bei Einkäufen, Reparaturen, Telekommunikation und Unternehmenslösungen.",
+      "imageAlt": "Kundenservice bei APP Informática Menorca"
+    },
+    "catalog": {
+      "eyebrow": "Online-Katalog",
+      "title": "Mehr als 5.000 Artikel",
+      "description": "Zugang zu unserem Online-Katalog für Computer, Gaming, Netzwerke, Druck, Peripherie und Elektronik.",
+      "button": "Katalog öffnen"
+    },
+    "status": {
+      "open": "Jetzt geöffnet",
+      "closed": "Geschlossen",
+      "until": "Bis",
+      "openAt": "Öffnet um",
+      "tomorrow": "Öffnet morgen um",
+      "monday": "Öffnet Montag um"
+    }
+  }
+}
